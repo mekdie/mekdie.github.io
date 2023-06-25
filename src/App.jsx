@@ -33,7 +33,7 @@ const Links = () => {
         <>
             <div id="profilePicture">
                 <img
-                    src="https://avatars.githubusercontent.com/u/56915661?v=4"
+                    src="https://raw.githubusercontent.com/mekdie/mekdie.github.io/main/public/mekdie.png"
                     alt="Mekdie Profile"
                 />
             </div>
