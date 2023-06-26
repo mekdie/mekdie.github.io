@@ -33,13 +33,13 @@ const Links = () => {
         <>
             <div id="profilePicture">
                 <img
-                    src="https://raw.githubusercontent.com/mekdie/mekdie.github.io/main/public/mekdie.png"
+                    src="https://raw.githubusercontent.com/mekdie/mekdie.github.io/main/public/mekdie.PNG"
                     alt="Mekdie Profile"
                 />
             </div>
 
             <div id="userName">
-                <h2>Welcome to World of Mekdie</h2>
+                <h2>Welcome to Mekdie's DevWorld</h2>
                 <p>McDony Lee - Mekdie</p>
             </div>
             {/* List all the available links */}
@@ -58,7 +58,11 @@ const Links = () => {
                 ))}
             </div>
 
-            <div id="hashtag">#Mekdie</div>
+            <div id="hashtag">
+                #Mekdie
+                <br />
+                &nbsp;Stay Tuned!<i className="fas fa-heart"></i>
+            </div>
         </>
     );
 };
